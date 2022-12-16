@@ -63,9 +63,9 @@
 
 * __git checkout branch_name__ - эта команда позволяет перейти на ветку с именем *__branch_name__*.
 
-* __git checkout -b new_branch_name__ - эта команда позволяет создать новую ветку с именем *__branch_name__* и сразу перейти на нее.
+* __git checkout -b new_branch_name__ - эта команда позволяет создать новую ветку с именем *__new_branch_name__* и сразу перейти на нее.
 
-* __git branch -d new_branch_name__ - эта команда позволяет удалить ветку с именем *__branch_name__*.
+* __git branch -d new_branch_name__ - эта команда позволяет удалить ветку с именем *__new_branch_name__*.
 
 *Схема веток в Git и их использование на практике*.
 
